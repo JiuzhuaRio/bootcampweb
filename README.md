@@ -1,5 +1,5 @@
 # Bootcamp Macaroni Web
-## Project one: A Story
+### Project one: A Story
 
 Github Link:
 
