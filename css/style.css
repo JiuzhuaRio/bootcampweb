@@ -1,0 +1,14 @@
+#blue{
+	background-color: rgba(0,0,200,0.3);
+	height:50vh;
+	width: 50vw;
+	color:yellow;
+	border-radius: 5vw;
+	text-align: center;
+}
+#red{
+	position: relative;
+	top: 24vh;
+	background-color: rgba(0,0,200,0.3);
+	color:black;
+}
