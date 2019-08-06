@@ -1,11 +1,13 @@
 # Bootcamp Macaroni Web
+---
 Github Link:
-* May:
-* Sharm:
+
+* May: https://maydeyn.github.io/parsons-web/
+* Sharm: 
 * Chel:
-* Kennis:
-* Nina:
-* Terri:
+* Kennis: https://sinnekyc.github.io/webday2/
+* Nina: https://nina-wang907.github.io/day2web/
+* Terri: https://virtualchoreographer.github.io/BootCamp/
 * Asuka:
 * Shubhaya:
-* Yunjia:
+* Yunjia: http://yunjia-github.github.io/BOOTCAMP2/
