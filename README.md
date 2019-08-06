@@ -4,7 +4,7 @@
 Github Link:
 
 * May: https://maydeyn.github.io/parsons-web/
-* Sharm: 
+* Sharm: https://southernsharm.github.io/handsomeStory/
 * Chel:
 * Kennis: https://sinnekyc.github.io/webday2/
 * Nina: https://nina-wang907.github.io/day2web/
