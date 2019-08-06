@@ -6,7 +6,7 @@ Github Link:
 * May: https://maydeyn.github.io/parsons-web/
 * Sharm: https://southernsharm.github.io/handsomeStory/
 * Chel:
-* Kennis: https://sinnekyc.github.io/webday2/
+* Kennis: https://sinnekyc.github.io/html-hw/
 * Nina: https://nina-wang907.github.io/day2web/
 * Terri: https://virtualchoreographer.github.io/BootCamp/
 * Asuka:
