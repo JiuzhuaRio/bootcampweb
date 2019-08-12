@@ -22,7 +22,7 @@ Github Link:
 * Chel: 
 * Kennis: https://sinnekyc.github.io/poster/
 * Nina: 
-* Terri: 
+* Terri: https://virtualchoreographer.github.io/MyPoster2.0/
 * Asuka: https://asukali1220.github.io/postermiao/
 * Shubhaya: https://sshubhaya.github.io/poster/
 * Yunjia: 
