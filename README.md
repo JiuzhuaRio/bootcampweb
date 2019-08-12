@@ -34,7 +34,7 @@ Github Link:
 * May: 
 * Sharm: 
 * Chel: 
-* Kennis: 
+* Kennis: https://sinnekyc.github.io/grid/
 * Nina: 
 * Terri: 
 * Asuka: 
