@@ -39,6 +39,6 @@ Github Link:
 * Terri: 
 * Asuka: https://asukali1220.github.io/threelittlethings/
 * Shubhaya: 
-* Yunjia: 
+* Yunjia: https://yunjia-github.github.io/littleThing-1/.
 ---
 ### So proud of you guys!!
