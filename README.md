@@ -33,9 +33,9 @@ Github Link:
 
 * May: 
 * Sharm: 
-* Chel: 
+* Chel: https://chelchan.github.io/red_grid/
 * Kennis: https://sinnekyc.github.io/grid/
-* Nina: 
+* Nina: https://nina-wang907.github.io/hello/
 * Terri: 
 * Asuka: 
 * Shubhaya: 
