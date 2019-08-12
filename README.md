@@ -27,7 +27,7 @@ Github Link:
 * Shubhaya: https://sshubhaya.github.io/poster/
 * Yunjia: 
 ---
-### Project three: three little things
+### Project three: Three Little Things
 
 Github Link:
 
