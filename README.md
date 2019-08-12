@@ -37,7 +37,7 @@ Github Link:
 * Kennis: https://sinnekyc.github.io/grid/
 * Nina: https://nina-wang907.github.io/hello/
 * Terri: 
-* Asuka: 
+* Asuka: https://asukali1220.github.io/threelittlethings/
 * Shubhaya: 
 * Yunjia: 
 ---
